@@ -1,0 +1,31 @@
+body{
+    background-color: #e0c9a9;
+}
+h1{
+    color:#7b4d2c;
+}
+#baslik{
+    height: 40px;
+}
+#tarif{
+    width: 1000px;
+    height: 500px;
+    margin:40px auto;
+}
+.soru{
+    margin: 10px;
+}
+.soru b{
+    color: #804420;
+}
+mark{
+   background-color: #a44900;
+   border-radius: 10px;
+   color: white;
+}
+#alt{
+    float: right;
+    font-size: 35px;
+    margin: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
